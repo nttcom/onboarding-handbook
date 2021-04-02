@@ -3,8 +3,8 @@ title: "配属初日〜1週間で実施"
 description: "オンボーディングにおいて新メンバーが参加した初日から1週間で実施することをまとめています。"
 weight: 20
 draft: false
-date: 2021-03-21T00:00:00+09:00
-lastmod: 2020-03-21T14:30:00+09:00
+date: 2021-04-02T15:00:00+09:00
+lastmod: 2021-04-02T15:30:00+09:00
 ---
 
 # 配属初日〜1週間
@@ -25,7 +25,7 @@ lastmod: 2020-03-21T14:30:00+09:00
 
 ### 社内での実践例
 
-HR部では、ウェルカムミーティングという名称で、配属初日に30分程度、HR組織長からミッション・文化・価値観について、説明をうける場を設定しています。
+Human Resource(以下、HR)部では、ウェルカムミーティングという名称で、配属初日に30分程度、HR組織長からミッション・文化・価値観について、説明をうける場を設定しています。
 
 ### 備考
 
@@ -49,7 +49,7 @@ HR部では、ウェルカムミーティングという名称で、配属初日
 
 ゴール・期待値を共有するための決まったテンプレートはありません。次の図は、すり合わせ項目の1つの例です。
 
-![onboarding-welcome-image](/onboarding-handbook/goal_image.png)
+![全社の役割、チームの存在意義、新メンバーに対する期待、個人のゴールと評価指標の4カラム図](/onboarding-handbook/goal_image.png)
 
 ## [トレーナー・メンターから定期的に困ったことはないか聞く](#polling) {#polling}
 
@@ -133,4 +133,4 @@ NTT Com イノベーションセンターのデザイン部門であるKOELで�
 
 ![onboarding-welcome-image](/onboarding-handbook/mixin.png)
 
-{{< button relref="/docs/regular-basis" >}}定常的に繰り返し実施すること{{< /button >}}
+{{< button relref="/docs/regular-basis" >}}定常的に繰り返し実施{{< /button >}}
